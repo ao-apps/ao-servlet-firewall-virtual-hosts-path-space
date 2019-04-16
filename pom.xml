@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 ao-servlet-firewall-virtual-hosts-path-space - Path space within virtual host support for servlet-based application request filtering.
-Copyright (C) 2018  AO Industries, Inc.
+Copyright (C) 2018, 2019  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -63,9 +63,9 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 							<links>
 								<link>${javac.link.javaApi}</link>
 								<link>${javac.link.javaeeApi.6}</link>
-								<link>https://aoindustries.com/ao-lang/apidocs</link>
-								<link>https://aoindustries.com/ao-servlet-firewall/api/apidocs</link>
-								<link>https://aoindustries.com/ao-servlet-firewall/virtual-hosts/apidocs</link>
+								<link>https://aoindustries.com/ao-lang/apidocs/</link>
+								<link>https://aoindustries.com/ao-servlet-firewall/api/apidocs/</link>
+								<link>https://aoindustries.com/ao-servlet-firewall/virtual-hosts/apidocs/</link>
 							</links>
 						</configuration>
 					</plugin>
