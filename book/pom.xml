@@ -106,6 +106,7 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 			<type>pom</type>
 			<scope>provided</scope>
 			<optional>true</optional>
+			<exclusions><exclusion><groupId>*</groupId><artifactId>*</artifactId></exclusion></exclusions>
 		</dependency>
 	</dependencies>
 </project>
