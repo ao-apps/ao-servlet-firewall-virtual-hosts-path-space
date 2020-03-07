@@ -35,8 +35,6 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.artifactId>ao-servlet-firewall-virtual-hosts-path-space</documented.artifactId>
-		<documented.javaVersion>1.8</documented.javaVersion>
-		<documented.javac.link.javaApi>${javac.link.javaApi.jdk8}</documented.javac.link.javaApi>
 		<documented.name>AO Servlet Firewall Virtual Hosts Path Space</documented.name>
 		<documented.shortTitle>Path Space</documented.shortTitle>
 		<documented.description>Path space within virtual host support for servlet-based application request filtering.</documented.description>
