@@ -30,7 +30,7 @@ Path space within virtual host support for servlet-based application request fil
 * [Project Home](https://aoindustries.com/ao-servlet-firewall/virtual-hosts/path-space/)
 * [Changelog](https://aoindustries.com/ao-servlet-firewall/virtual-hosts/path-space/changelog)
 * [API Docs](https://aoindustries.com/ao-servlet-firewall/virtual-hosts/path-space/apidocs/)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.aoindustries%22%20AND%20a:%22ao-servlet-firewall-virtual-hosts-path-space%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.aoindustries/ao-servlet-firewall-virtual-hosts-path-space)
 * [GitHub](https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space)
 
 ## Features
