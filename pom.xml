@@ -52,6 +52,11 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 		<tag>HEAD</tag>
 	</scm>
 
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space/issues</url>
+	</issueManagement>
+
 	<profiles>
 		<profile>
 			<id>release</id>
