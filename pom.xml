@@ -69,9 +69,7 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 								<!-- Java EE -->
 								<link>${javadoc.link.javaee}</link>
 								<!-- Direct -->
-								<link>https://aoindustries.com/ao-lang/apidocs/</link>
-								<link>https://aoindustries.com/ao-servlet-firewall/api/apidocs/</link>
-								<link>https://aoindustries.com/ao-servlet-firewall/virtual-hosts/apidocs/</link>
+								<!-- TODO -->
 							</links>
 						</configuration>
 					</plugin>
@@ -89,15 +87,7 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 				<scope>import</scope>
 			</dependency>
 			<!-- Direct -->
-			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId><version>4.1.0${POST-SNAPSHOT}</version>
-			</dependency>
-			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-servlet-firewall-api</artifactId><version>1.0.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
-			</dependency>
-			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-servlet-firewall-virtual-hosts</artifactId><version>1.0.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
-			</dependency>
+			<!-- TODO -->
 		</dependencies>
 	</dependencyManagement>
 
@@ -108,14 +98,6 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 			<scope>provided</scope>
 		</dependency>
 		<!-- Direct -->
-		<dependency>
-			<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.aoindustries</groupId><artifactId>ao-servlet-firewall-api</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>com.aoindustries</groupId><artifactId>ao-servlet-firewall-virtual-hosts</artifactId>
-		</dependency>
+		<!-- TODO -->
 	</dependencies>
 </project>
