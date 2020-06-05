@@ -55,23 +55,4 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 		<system>GitHub Issues</system>
 		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space/issues</url>
 	</issueManagement>
-
-	<dependencyManagement>
-		<dependencies>
-			<!-- Java EE -->
-			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>javaee-web-api-bom</artifactId><version>6.0.1${POST-SNAPSHOT}</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
-
-	<dependencies>
-		<!-- Java EE -->
-		<dependency>
-			<groupId>javax.servlet</groupId><artifactId>javax.servlet-api</artifactId>
-			<scope>provided</scope>
-		</dependency>
-	</dependencies>
 </project>
