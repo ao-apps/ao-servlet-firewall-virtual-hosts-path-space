@@ -33,6 +33,7 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 	<packaging>bundle</packaging>
 
 	<properties>
+		<module.name>com.aoapps.servlet.firewall.virtualhosts.pathspace</module.name>
 		<javadoc.breadcrumbs><![CDATA[<a target="${javadoc.target}" href="https://oss.aoapps.com/">AO OSS</a>
 / <a target="${javadoc.target}" href="https://oss.aoapps.com/servlet-firewall/">Servlet Firewall</a>
 / <a target="${javadoc.target}" href="https://oss.aoapps.com/servlet-firewall/virtual-hosts/">Virtual Hosts</a>
