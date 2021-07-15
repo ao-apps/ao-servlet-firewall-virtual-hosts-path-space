@@ -82,6 +82,11 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space/issues</url>
 	</issueManagement>
 
+	<ciManagement>
+		<system>GitHub Actions</system>
+		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space/actions</url>
+	</ciManagement>
+
 	<repositories>
 		<!-- Repository required here, too, so can find parent -->
 		<repository>
