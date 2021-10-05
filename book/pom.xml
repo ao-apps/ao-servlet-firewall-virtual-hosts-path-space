@@ -71,20 +71,20 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <http://ww
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space.git</connection>
-		<developerConnection>scm:git:git@github.com:aoindustries/ao-servlet-firewall-virtual-hosts-path-space.git</developerConnection>
-		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space</url>
+		<connection>scm:git:git://github.com/ao-apps/ao-servlet-firewall-virtual-hosts-path-space.git</connection>
+		<developerConnection>scm:git:git@github.com:ao-apps/ao-servlet-firewall-virtual-hosts-path-space.git</developerConnection>
+		<url>https://github.com/ao-apps/ao-servlet-firewall-virtual-hosts-path-space</url>
 		<tag>HEAD</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space/issues</url>
+		<url>https://github.com/ao-apps/ao-servlet-firewall-virtual-hosts-path-space/issues</url>
 	</issueManagement>
 
 	<ciManagement>
 		<system>GitHub Actions</system>
-		<url>https://github.com/aoindustries/ao-servlet-firewall-virtual-hosts-path-space/actions</url>
+		<url>https://github.com/ao-apps/ao-servlet-firewall-virtual-hosts-path-space/actions</url>
 	</ciManagement>
 
 	<repositories>
