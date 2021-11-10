@@ -98,6 +98,9 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <https://w
 			<releases>
 				<enabled>false</enabled>
 			</releases>
+			<snapshots>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
 		</repository>
 	</repositories>
 </project>
