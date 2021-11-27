@@ -77,4 +77,14 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <https://w
 			<activatedProfile>development</activatedProfile>
 		</activatedProfiles>
 	</action>
+	<action>
+		<actionName>javadoc</actionName>
+		<packagings>
+			<packaging>*</packaging>
+		</packagings>
+		<goals>
+			<goal>prepare-package</goal>
+			<goal>javadoc:javadoc</goal>
+		</goals>
+	</action>
 </actions>
