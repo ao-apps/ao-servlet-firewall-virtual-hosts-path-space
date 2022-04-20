@@ -1,6 +1,6 @@
 /*
  * ao-servlet-firewall-virtual-hosts-path-space - Path space within virtual host support for servlet-based application request filtering.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,5 +21,5 @@
  * along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.aoapps.servlet.firewall.virtualhosts.pathspace {
-	exports com.aoapps.servlet.firewall.virtualhosts.pathspace;
+  exports com.aoapps.servlet.firewall.virtualhosts.pathspace;
 }
