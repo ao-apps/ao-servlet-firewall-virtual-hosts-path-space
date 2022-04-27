@@ -22,4 +22,4 @@
  */
 module com.aoapps.servlet.firewall.virtualhosts.pathspace {
   exports com.aoapps.servlet.firewall.virtualhosts.pathspace;
-}
+} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
