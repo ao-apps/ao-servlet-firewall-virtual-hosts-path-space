@@ -23,7 +23,7 @@ Path space within virtual host support for servlet-based application request fil
 * [Project Home](https://oss.aoapps.com/servlet-firewall/virtual-hosts/path-space/)
 * [Changelog](https://oss.aoapps.com/servlet-firewall/virtual-hosts/path-space/changelog)
 * [API Docs](https://oss.aoapps.com/servlet-firewall/virtual-hosts/path-space/apidocs/)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.aoapps&q=a%3Aao-servlet-firewall-virtual-hosts-path-space)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.aoapps/ao-servlet-firewall-virtual-hosts-path-space)
 * [GitHub](https://github.com/ao-apps/ao-servlet-firewall-virtual-hosts-path-space)
 
 ## Features
