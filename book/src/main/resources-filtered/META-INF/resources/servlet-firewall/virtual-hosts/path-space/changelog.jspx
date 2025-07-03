@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 ao-servlet-firewall-virtual-hosts-path-space - Path space within virtual host support for servlet-based application request filtering.
-Copyright (C) 2018, 2019, 2020, 2021, 2022, 2023  AO Industries, Inc.
+Copyright (C) 2018, 2019, 2020, 2021, 2022, 2023, 2025  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -37,7 +37,7 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <https://w
     shortTitle="Changelog"
     tocLevels="1"
     datePublished="2018-06-15T00:03:04-05:00"
-    dateModified="2021-07-21T23:45:19-05:00"
+    dateModified="2025-07-02T23:05:45Z"
   >
     <c:set var="latestRelease" value="0.1.0" />
     <c:if test="${
@@ -50,7 +50,6 @@ along with ao-servlet-firewall-virtual-hosts-path-space.  If not, see <https://w
         version="@{project.version}"
         groupId="@{project.groupId}"
         artifactId="@{documented.artifactId}"
-        repository="@{nexusUrl}content/repositories/snapshots/"
         scmUrl="@{project.scm.url}"
       />
     </c:if>
